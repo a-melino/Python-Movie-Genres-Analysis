@@ -32,7 +32,7 @@ Research Hypotheses:
 4. Highly budgeted movies have high popularity.
 5. Movies have made more profit over time (based on genre).
 
-
+#
 ### Data Exploration and Cleaning
 
 The dataset used comes from the IMDB website and it contains a lot of information that was unnecessary to the analysis being performed for this project. Therefore, some data cleaning steps were taken to set up the data for easy visualization. The dataset file can be found in the 'Resources' folder of this directory as 'imdb_movies.csv' while the python code can be found in the main directory as 'movie_genres_analysis.ipynb'.
@@ -119,7 +119,7 @@ A heatmap to visualize how the average profit has behaved for each genre over ti
 #
 ### Further Analysis
 
-Further analysis can be conducted on other aspects of this data as the focus of this project was on genres specifically. Trends with cast, production companies, release dates, etc. could all reveal valuable and useful trends.
+Further analysis can be conducted on other aspects of this data as the focus of this project was specifically on genres. Trends with cast, production companies, release dates, etc. could all reveal valuable and useful trends.
 
 Additionally, further visualization software and libraries could be used to create deeper and more innovative visualizations and analysis.
 
